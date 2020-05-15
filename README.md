@@ -1,2 +1,2 @@
 # TerminalTest
-Just a test for git terminal
+Just a test for git terminal bruh
